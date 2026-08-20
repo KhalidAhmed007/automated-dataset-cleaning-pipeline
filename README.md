@@ -200,7 +200,7 @@ seaborn
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/saif-m7/automated-dataset-cleaning-pipeline.git
+git clone https://github.com/KhalidAhmed007/automated-dataset-cleaning-pipeline
 ```
 
 ### 2. Navigate to the Project
