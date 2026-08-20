@@ -249,7 +249,7 @@ The complete pipeline has been successfully executed in Google Colab using the p
 
 **Google Colab:**
 
-https://colab.research.google.com/drive/1_cW4jUL6dW0oWaqSygQw30aIcXuXkry3?usp=sharing
+https://colab.research.google.com/drive/18WJ5Cgxhn4vS5zICbRIyYYuZ6GTaPs5U?usp=sharing
 
 The Colab notebook demonstrates:
 
